@@ -4,12 +4,12 @@
 
 To install the package using npm you can use
 ```
-npm install --save react-context-store
+npm install --save @salman3k1/react-context-store
 ```
 
 If you are using yarn you can run
 ```
-yarn add react-context-store
+yarn add @salman3k1/react-context-store
 ```
 
 ### Usage

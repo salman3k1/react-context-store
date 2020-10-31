@@ -1,6 +1,6 @@
 {
-  "name": "react-context-store",
-  "version": "1.0.0",
+  "name": "@salman3k1/react-context-store",
+  "version": "1.0.1",
   "description": "A react store inspired by classic redux setup but created using only the react context api and hooks",
   "keywords": [
     "react",
